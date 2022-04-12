@@ -1,4 +1,10 @@
-[{
+[
+	{
+		"type": "input",
+		"name": "name",
+		"message": "name?"
+	},
+	{
 	"type": "confirm",
 	"name": "private",
 	"message": "ths resgistery is private?"
